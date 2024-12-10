@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A simple action reduces high fat diet intake and obesity
+  in mice
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: M. R.
+    family-names: Barrett
+    affiliation: Washington University in St. Louis
+  - given-names: Y.
+    family-names: Pan
+    affiliation: Washington University in St. Louis
+  - given-names: Chantelle
+    family-names: Murrell
+    affiliation: Washington University in St. Louis
+repository-code: 'https://github.com/KravitzLab/Barrett2024/'
+license: GPL-3.0
+version: 1.0.0
+date-released: '2024-12-10'
