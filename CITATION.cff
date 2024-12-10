@@ -19,6 +19,81 @@ authors:
   - given-names: Chantelle
     family-names: Murrell
     affiliation: Washington University in St. Louis
+  - given-names: Eva O
+    family-names: Karolczak
+    affiliation: National Institutes of Health
+  - given-names: Justin
+    family-names: Wang
+    affiliation: Washington University in St. Louis
+  - given-names: Lisa
+    family-names: Fang
+    affiliation: Washington University in St. Louis
+  - given-names: Jeremy M
+    family-names: Thompson
+    affiliation: Washington University in St. Louis
+  - given-names: Sharon
+    family-names: Chang
+    affiliation: Washington University in St. Louis
+  - given-names: Eric
+    family-names: Casey
+    affiliation: Washington University in St. Louis
+  - given-names: Jordyn
+    family-names: Czarny
+    affiliation: Washington University in St. Louis
+  - given-names: Wang Lok
+    family-names: So
+    affiliation: Monash University
+  - given-names: Alex
+    family-names: Reichenbach
+    affiliation: Monash University
+  - given-names: Romana
+    family-names: Stark
+    affiliation: Monash University
+  - given-names: Hamid
+    family-names: Taghipourbibalan
+    affiliation: University of Tromsø
+  - given-names: Suzanne R
+    family-names: Penna
+    affiliation: 'Emory School of Medicine '
+  - given-names: Katherine B
+    family-names: McCullough
+    affiliation: Washington University in St. Louis
+  - given-names: Sara
+    family-names: Westbrook
+    affiliation: Washington State University
+  - given-names: Bridget
+    family-names: Matikainen-Ankeny
+    affiliation: Rutgers University
+  - given-names: Victor A
+    family-names: Cazares
+    affiliation: Williams College
+  - given-names: Kristen
+    family-names: Delevich
+    affiliation: Washington State University
+  - given-names: Wambura
+    family-names: Fobbs
+    affiliation: Swarthmore College
+  - given-names: Susan
+    family-names: Maloney
+    affiliation: Washington University in St. Louis
+  - given-names: Ames
+    family-names: Sutton Hickey
+    affiliation: Temple University
+  - given-names: James E
+    family-names: McCutcheon
+    affiliation: University of Tromsø
+  - given-names: Zane
+    family-names: Andrews
+    affiliation: Monash University
+  - given-names: Meaghan
+    family-names: Creed
+    affiliation: Washington University in St. Louis
+  - given-names: Michael J
+    family-names: Krashes
+    affiliation: National Institutes of Health
+  - given-names: Alexxai V
+    family-names: Kravitz
+    affiliation: Washington University in St. Louis
 repository-code: 'https://github.com/KravitzLab/Barrett2024/'
 license: GPL-3.0
 version: 1.0.0
